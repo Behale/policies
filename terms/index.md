@@ -751,4 +751,3 @@ France
 
 You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [https://app.behale.io](https://app.behale.io).
 
-</x-turndown>
