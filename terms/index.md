@@ -1,102 +1,754 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a 37signals product.
+description: All the terms that you agree to when you sign up for Behale product.
 ---
+**PRIVACY NOTICE**
 
-# Terms of Service
+  
 
-*__Note: We have changed our company name (back) to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60).__*
+**Last updated October 24, 2022**
 
-*Last updated: July 18, 2022*
+  
 
-From everyone at 37signals, thank you for using our products! We build them to help you do your best work. There are millions of people using 37signals products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+  
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to 37signals LLC. We spun off Highrise HQ, LLC in the past, but it has since rejoined 37signals LLC.
+  
 
-When we say “Services”, we mean any product created and maintained by 37signals LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+This privacy notice for Behale SAS (doing business as Behale) ("**Behale**," "**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Basecamp 3](https://basecamp.com/about/policies/ownership-bc3), [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership), [Basecamp Classic](https://classic.basecamp-help.com/article/526-account-ownership), [HEY for Domains](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
+*   Visit our website at [https://behale.io](https://behale.io), or any website of ours that links to this privacy notice
 
-We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+*   Download and use our mobile application (behale), or any other application of ours that links to this privacy notice
 
-When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
+*   Engage with us in other related ways, including any sales, marketing, or events
 
-If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://basecamp.com/about/team), [how we work](https://basecamp.com/handbook), and keeping an open door to [your feedback]({{ site.email_support }}).
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at admin@behale.io.
 
-## Account Terms
+  
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up [two-factor authentication](https://m.signalvnoise.com/basecamp-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
-2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
-3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
-4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+  
 
-## Payment, Refunds, and Plan Changes
+**SUMMARY OF KEY POINTS**
 
-1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
-2. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
-3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For other upgrades or downgrades in plan level, the new rate starts from the next billing cycle.
-4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-5. We process refunds according to our [Fair Refund policy](../refund/index.md).
+  
 
-## Cancellation and Termination
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click_** [**_here_**](#toc) **_to go directly to our table of contents._**
 
-1. You are solely responsible for properly canceling your account. Within each of our Services, we provide a simple no-questions-asked cancellation link. You can find instructions for how to cancel your account in our [Cancellation policy](../cancellation/index.md). An email or phone request to cancel your account is not automatically considered cancellation. If you need help cancelling your account, you can always [contact our Support team]({{ site.email_support }}).
-2. All of your content will be inaccessible from the Services immediately upon account cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted. If you want to export any data before your account is cancelled, we‘ve provided instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://classic.basecamp-help.com/article/524-exports), [Highrise](https://support.highrise-help.com/category/314-imports-exports), [Campfire](https://support.campfire-help.com/article/146-how-do-i-export-cancel-my-account), and [Backpack](https://support.backpack-help.com/article/289-can-i-export-my-data-out-of-backpack).
-3. If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately, and you will not be charged again. We do not automatically prorate unused time in the last billing cycle. See our [Fair Refund policy](../refund/index.md) for more details.
-4. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you and any other users on your account will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because statistically speaking, out of the hundreds of thousands of accounts on our Services, there is at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](../abuse/index.md).
-5. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
+  
 
-## Modifications to the Service and Prices
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Behale and the Services, the choices you make, and the products and features you use. Click [here](#personalinfo) to learn more.
 
-1. We make a promise to our customers to support our Services [until the end of the Internet](../until-the-end-of-the-internet/index.md). That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
-2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
+  
 
-## Uptime, Security, and Privacy
+**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Click [here](#sensitiveinfo) to learn more.
 
-1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for most of our Services — here’s [the one exception](https://basecamp.com/about/policies/sla) — but do take uptime of our applications seriously. Visit [https://www.basecampstatus.com](https://www.basecampstatus.com) to see the status of our Services.
-2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we’ll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
-3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
-4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that 37signals may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
-  - **To help you with support requests you make.** We’ll ask for express consent before accessing your account.
-  - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
-  - **To safeguard 37signals.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
-  - **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act. If a non-US authority approaches 37signals for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If 37signals is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
+  
 
-5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Basecamp](../privacy/basecamp-subprocessors/index.md), [HEY](../privacy/hey-subprocessors/index.md), [Highrise](../privacy/highrise-subprocessors/index.md), [Campfire](../privacy/campfire-subprocessors/index.md), and [Backpack](../privacy/backpack-subprocessors/index.md).
-6. Under the California Consumer Privacy Act (“CCPA”), 37signals is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
-7. These Service Terms incorporate the [Basecamp Data Processing Addendum (“DPA”)](../privacy/regulations/dpa/Basecamp_Data_Processing_Addendum_v202109.pdf), when the General Data Protection regulation (“GDPR”) applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA is effective as of September 28, 2021 and replaces and supersedes any previously agreed data processing addendum between you and 37signals LLC relating to the GDPR. If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
+**Do we receive any information from third parties?** We do not receive any information from third parties.
 
-## Copyright and Content Ownership
+  
 
-1. All content posted on the Services must comply with U.S. copyright law. We provide details on [how to file a copyright infringement claim](../copyright/index.md).
-2. We claim no intellectual property rights over the material you provide to the Services. All materials uploaded remain yours.
-3. We do not pre-screen content, but reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logo or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
-5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
-6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#infouse) to learn more.
 
-## Features and Bugs
+  
 
-We design our Services with care, based on our own experience and the experiences of customers who share their time and feedback. However, there is no such thing as a service that pleases everybody. We make no guarantees that our Services will meet your specific requirements or expectations.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#whoshare) to learn more.
 
-We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don’t guarantee completely error-free Services.
+  
 
-## Services Adaptations and API Terms
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#infosafe) to learn more.
 
-We offer Application Program Interfaces (“API”s) for some of our Services (currently Basecamp, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
+  
 
-1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
-2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user’s activity *other than time tracking*, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
-3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account’s access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account’s access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#privacyrights) to learn more.
 
-Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Basecamp at [https://basecamp.com/extras](https://basecamp.com/extras) and for Highrise at [https://highrisehq.com/extras](https://highrisehq.com/extras). We are not liable or accountable for any of these third-party integrations.
+  
 
-## Liability
+**How do you exercise your rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: [https://app.behale.io](https://app.behale.io), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-We mention liability throughout these Terms but to put it all in one section:
+  
 
-***You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to this Terms of Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability.***
+Want to learn more about what Behale does with any information we collect? Click [here](#toc) to review the notice in full.
 
-In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general [giving a damn](https://basecamp.com/about). If you choose to use our Services, thank you for betting on us.
+  
 
-If you have a question about any of the Terms of Service, please [contact our Support team]({{ site.email_support }}).
+  
+
+**TABLE OF CONTENTS**
+
+  
+
+[1\. WHAT INFORMATION DO WE COLLECT?](#infocollect)
+
+[2\. HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
+
+[3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases)
+
+[4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
+
+[5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#cookies)
+
+[6\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)
+
+[7\. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
+
+[8\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#infosafe)
+
+[9\. DO WE COLLECT INFORMATION FROM MINORS?](#infominors)
+
+[10\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
+
+[11\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
+
+[12\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#caresidents)
+
+[13\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
+
+[14\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
+
+[15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
+
+  
+
+**1\. WHAT INFORMATION DO WE COLLECT?**
+
+  
+
+**Personal information you disclose to us**
+
+  
+
+**_In Short:_** _We collect personal information that you provide to us._
+
+  
+
+We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+
+  
+
+**Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+
+*   names
+
+*   email addresses
+
+*   passwords
+
+*   contact preferences
+
+*   contact or authentication data
+
+*   phone numbers
+
+**Sensitive Information.** When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
+
+*   health data
+
+**Payment Data.** We may collect data necessary to process your payment if you make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is stored by Stripe. You may find their privacy notice link(s) here: [https://stripe.com/en-gb/privacy](https://stripe.com/en-gb/privacy).
+
+  
+
+**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)" below.
+
+  
+
+**Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+
+*   _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's calendar, social media accounts, health, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+
+*   _Mobile Device Data._ We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
+
+*   _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+
+This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+
+  
+
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+
+  
+
+**Information automatically collected**
+
+  
+
+**_In Short:_** _Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services._
+
+  
+
+We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
+
+  
+
+Like many businesses, we also collect information through cookies and similar technologies.
+
+  
+
+The information we collect includes:
+
+*   _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
+
+*   _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
+
+**2\. HOW DO WE PROCESS YOUR INFORMATION?**
+
+  
+
+**_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
+
+  
+
+**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+
+*   **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
+
+*   **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service.
+
+*   **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
+
+*   **To fulfill and manage your orders.** We may process your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
+
+*   **To enable user-to-user communications.** We may process your information if you choose to use any of our offerings that allow for communication with another user.
+
+*   **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
+
+*   **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
+
+*   **To identify usage trends.** We may process information about how you use our Services to better understand how they are being used so we can improve them.
+
+*   **To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
+
+*   **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+
+  
+
+**3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
+
+  
+
+_**In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
+
+  
+
+The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
+
+*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawconsent) to learn more.
+
+*   **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
+
+*   **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
+
+*   Analyze how our Services are used so we can improve them to engage and retain users
+
+*   Support our marketing activities
+
+*   Diagnose problems and/or prevent fraudulent activities
+
+*   Understand how our users use our products and services so we can improve user experience
+
+*   **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.  
+    
+
+*   **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+
+  
+
+**4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
+
+  
+
+**_In Short:_** _We may share information in specific situations described in this section and/or with the following third parties._
+
+  
+
+**Vendors, Consultants, and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors, or agents ("**third parties**") who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct. The third parties we may share personal information with are as follows:
+
+*   **Allow Users to Connect to Their Third-Party Accounts**
+
+Google account and Instagram account
+
+*   **Cloud Computing Services**
+
+Google Cloud Platform and Amazon Web Services (AWS)
+
+*   **Communicate and Chat with Users**
+
+Sendgrid
+
+*   **Content Optimization**
+
+YouTube video embed and Typeform embed
+
+*   **Social Media Sharing and Advertising**
+
+Facebook advertising
+
+*   **User Account Registration and Authentication**
+
+Google OAuth 2.0
+
+*   **Web and Mobile Analytics**
+
+Facebook Ads conversion tracking
+
+*   **Website Performance Monitoring**
+
+Sentry
+
+  
+
+We also may need to share your personal information in the following situations:
+
+*   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+*   **Offer Wall.** Our application(s) may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
+
+  
+
+**5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+
+  
+
+**_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
+
+  
+
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+
+  
+
+**6\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?**
+
+  
+
+**_In Short:_** _If you choose to register or log in to our Services using a social media account, we may have access to certain information about you._
+
+  
+
+Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform.
+
+  
+
+We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
+
+  
+
+**7\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+
+  
+
+**_In Short:_** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
+
+  
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than three (3) months past the termination of the user's account.
+
+  
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+  
+
+**8\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+
+  
+
+**_In Short:_** _We aim to protect your personal information through a system of organizational and technical security measures._
+
+  
+
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+
+  
+
+**9\. DO WE COLLECT INFORMATION FROM MINORS?**
+
+  
+
+**_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
+
+  
+
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at rafa@behale.io.
+
+  
+
+**10\. WHAT ARE YOUR PRIVACY RIGHTS?**
+
+  
+
+**_In Short:_** _In some regions, such as the European Economic Area (EEA) and United Kingdom (UK), you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time._
+
+  
+
+In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+
+  
+
+We will consider and act upon any request in accordance with applicable data protection laws.
+
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [https://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
+
+  
+
+If you are located in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
+
+  
+
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below or updating your preferences.
+
+  
+
+However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+  
+
+**Opting out of marketing and promotional communications:** You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, or by contacting us using the details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
+
+  
+
+**Account Information**
+
+  
+
+If you would at any time like to review or change the information in your account or terminate your account, you can:
+
+*   Contact us using the contact information provided.
+
+*   Log in to your account settings and update your user account.
+
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
+
+  
+
+**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt out of interest-based advertising by advertisers on our Services visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).
+
+  
+
+If you have questions or comments about your privacy rights, you may email us at admin@behale.io.
+
+  
+
+**11\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+
+  
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
+
+  
+
+**12\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+
+  
+
+**_In Short:_** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._
+
+  
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+  
+
+If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
+
+  
+
+**CCPA Privacy Notice**
+
+  
+
+The California Code of Regulations defines a "resident" as:
+
+  
+
+(1) every individual who is in the State of California for other than a temporary or transitory purpose and
+
+(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
+
+  
+
+All other individuals are defined as "non-residents."
+
+  
+
+If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
+
+  
+
+**What categories of personal information do we collect?**
+
+  
+
+We have collected the following categories of personal information in the past twelve (12) months:
+
+  
+
+**Category**
+
+**Examples**
+
+**Collected**
+
+A. Identifiers
+
+Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
+
+  
+
+YES
+
+  
+
+B. Personal information categories listed in the California Customer Records statute
+
+Name, contact information, education, employment, employment history, and financial information
+
+  
+
+YES
+
+  
+
+C. Protected classification characteristics under California or federal law
+
+Gender and date of birth
+
+  
+
+YES
+
+  
+
+D. Commercial information
+
+Transaction information, purchase history, financial details, and payment information
+
+  
+
+NO
+
+  
+
+E. Biometric information
+
+Fingerprints and voiceprints
+
+  
+
+NO
+
+  
+
+F. Internet or other similar network activity
+
+Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
+
+  
+
+NO
+
+  
+
+G. Geolocation data
+
+Device location
+
+  
+
+NO
+
+  
+
+H. Audio, electronic, visual, thermal, olfactory, or similar information
+
+Images and audio, video or call recordings created in connection with our business activities
+
+  
+
+YES
+
+  
+
+I. Professional or employment-related information
+
+Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
+
+  
+
+YES
+
+  
+
+J. Education Information
+
+Student records and directory information
+
+  
+
+NO
+
+  
+
+K. Inferences drawn from other personal information
+
+Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
+
+  
+
+YES
+
+  
+
+  
+
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+
+*   Receiving help through our customer support channels;
+
+*   Participation in customer surveys or contests; and
+
+*   Facilitation in the delivery of our Services and to respond to your inquiries.
+
+**How do we use and share your personal information?**
+
+  
+
+More information about our data collection and sharing practices can be found in this privacy notice.
+
+  
+
+You may contact us by email at admin@behale.io, or by referring to the contact details at the bottom of this document.
+
+  
+
+If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
+
+  
+
+**Will your information be shared with anyone else?**
+
+  
+
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf.
+
+  
+
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
+
+  
+
+Behale SAS has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Behale SAS has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:
+
+The categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found under "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)".
+
+  
+
+**Your rights with respect to your personal data**
+
+  
+
+Right to request deletion of the data — Request to delete
+
+  
+
+You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
+
+  
+
+Right to be informed — Request to know
+
+  
+
+Depending on the circumstances, you have a right to know:
+
+*   whether we collect and use your personal information;
+
+*   the categories of personal information that we collect;
+
+*   the purposes for which the collected personal information is used;
+
+*   whether we sell your personal information to third parties;
+
+*   the categories of personal information that we sold or disclosed for a business purpose;
+
+*   the categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
+
+*   the business or commercial purpose for collecting or selling personal information.
+
+In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
+
+  
+
+Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+
+  
+
+We will not discriminate against you if you exercise your privacy rights.
+
+  
+
+Verification process
+
+  
+
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
+
+  
+
+We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
+
+  
+
+Other privacy rights
+
+*   You may object to the processing of your personal information.
+
+*   You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
+
+*   You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
+
+*   You may request to opt out from future selling of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
+
+To exercise these rights, you can contact us by email at admin@behale.io, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+
+  
+
+**13\. DO WE MAKE UPDATES TO THIS NOTICE?**
+
+  
+
+_**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
+
+  
+
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+  
+
+**14\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+
+  
+
+If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Rafael Ballestiero, by email at rafa@behale.io, by phone at +33 6 16 43 91 41, or by post to:
+
+  
+
+Behale SAS
+
+Rafael Ballestiero
+
+65, Rue de la Croix
+
+Nanterre 92000
+
+France
+
+  
+
+**15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+
+  
+
+You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [https://app.behale.io](https://app.behale.io).
+
+</x-turndown>
