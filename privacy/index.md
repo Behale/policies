@@ -362,7 +362,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
   
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at rafa@behale.io.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at legal@behale.io.
 
   
 
@@ -722,13 +722,11 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Rafael Ballestiero, by email at rafa@behale.io, by phone at +33 6 16 43 91 41, or by post to:
+If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), by email at legal@behale.io, by phone at +33 6 16 43 91 41, or by post to:
 
   
 
 Behale SAS
-
-Rafael Ballestiero
 
 65, Rue de la Croix
 
