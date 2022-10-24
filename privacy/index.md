@@ -722,7 +722,7 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), by email at legal@behale.io, by phone at +33 6 16 43 91 41, or by post to:
+If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), by email at legal@behale.io or by post to:
 
   
 
