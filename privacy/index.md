@@ -65,44 +65,6 @@ Want to learn more about what Behale does with any information we collect? Click
 
   
 
-  
-
-**TABLE OF CONTENTS**
-
-  
-
-[1\. WHAT INFORMATION DO WE COLLECT?](#infocollect)
-
-[2\. HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
-
-[3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases)
-
-[4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
-
-[5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#cookies)
-
-[6\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)
-
-[7\. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
-
-[8\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#infosafe)
-
-[9\. DO WE COLLECT INFORMATION FROM MINORS?](#infominors)
-
-[10\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
-
-[11\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
-
-[12\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#caresidents)
-
-[13\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
-
-[14\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-
-[15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
-
-  
-
 **1\. WHAT INFORMATION DO WE COLLECT?**
 
   
@@ -414,7 +376,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
   
 
-**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt out of interest-based advertising by advertisers on our Services visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).
+**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. 
 
   
 
@@ -742,3 +704,4 @@ France
 
 You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [https://app.behale.io](https://app.behale.io).
 
+These terms of use were created using Termly's Privacy Policy Generator.
